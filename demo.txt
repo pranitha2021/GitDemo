@@ -1,1 +1,1 @@
-name = Neo
+name = NeoTech
